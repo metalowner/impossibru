@@ -1,7 +1,7 @@
 # Impossibru!!
 The game goal is to have fun while tackling a challange. And the game gets more difficult the more you play it.
 ### In order to run the game; open **Index.html** with your browser.
-Or press here metalowner.github.io/impossibru
+Or press here https://metalowner.github.io/impossibru/
 ## Game Rules:
 -You can use the **up, down, left and right** keyboard buttons (not the wasd).
 -The enemies (bugs) can move only from left to right and will apear at random spots each time you score a point.
